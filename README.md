@@ -1,11 +1,76 @@
-<h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+syre;Welcome+to+my+profile!" alt="" /></a>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/140892720?u=442e89bcfeed5c5f5491c7e885eb5d89fc22cddb&v=4" width="150" style="border-radius: 50%;" alt="syre" />
-</p>
+# Hi There! 👋
 
-## 👨‍💻 About Me
+### Passionate Developer Building Awesome Things.
 
-Starter Developer
+<br>
+
+> *"Always learning, always building, always improving."*
+
+</div>
+
+---
+
+## 🔥 About Me
+
+- 🧠 **Name:** Syre
+- 💻 **Developer:** Web & Software Development
+- 🌍 **Location:** Portugal
+- 🚀 **Portfolio:** [fakecrime.bio/syre777](https://fakecrime.bio/syre777)
+
+<br>
+
+<div align="center">
+
+### 👨‍💻 Developer
+
+![Profile Views](https://komarev.com/ghpvc/?username=syre777&color=blue&style=flat-square)
+
+</div>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,python,androidstudio,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=syre777&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syre777&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Links
+
+<div align="center">
+
+<a href="https://fakecrime.bio/syre777">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/syre777">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>
