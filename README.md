@@ -6,7 +6,7 @@
 
 <br>
 
-> *"Always learning, always building, always improving."*
+> *"idk."*
 
 </div>
 
@@ -17,12 +17,13 @@
 - 🧠 **Name:** Syre
 - 💻 **Developer:** Web & Software Development
 - 🌍 **From:** Portugal
+- 🟢 **Now:** Working on lua scripts for skeet
 
 <br>
 
 <div align="center">
 
-### 👨‍💻 Developer
+### 👨‍💻 Developer 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syre777&color=blue&style=flat-square)
 
@@ -30,13 +31,4 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,python,androidstudio,git,github,vscode" />
-
-</div>
-
----
 
