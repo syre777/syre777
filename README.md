@@ -8,7 +8,4 @@
 
 ## 👨‍💻 About Me
 
-Starter Developer 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=syre777&theme=neon" alt="syre777 highlights" />
-</p>
+Starter Developer
