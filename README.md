@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syre!;" />
 </h1>
 
-<p align="center"><em>“Code it. Break it. Improve it.”</em></p>
+<p align="center"><em>“Big Things Ahead.”</em></p>
 
 ---
 
 ### 🔥 About
 
 * 🧠 **Name:** Syre
-* 💻 **Developer:** Lua Developer
+* 💻 **Developer:** Web & Software Developer
 * 🎮 **Focus:** gamesense.pub
 * 🗺️ **Location:** Portugal
 
