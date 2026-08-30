@@ -21,17 +21,9 @@
 
 <p align="center">
   <strong>Lua Developer for gamesense.pub</strong><br/>
-  Creating scripts, features and custom experiences.
+  Creating scripts, features.
 </p>
 
-<p align="center">
-  <a href="https://github.com/syre777">
-    <img src="https://img.shields.io/badge/GitHub-syre777-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://gamesense.pub">
-    <img src="https://img.shields.io/badge/gamesense.pub-Visit-blue?style=for-the-badge" alt="gamesense.pub" />
-  </a>
-</p>
 
 ---
 
