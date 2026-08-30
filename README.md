@@ -11,7 +11,7 @@
 * 🧠 **Name:** Syre
 * 💻 **Developer:** Web & Software Developer
 * 🎮 **Focus:** gamesense.pub
-* 🗺️ **Location:** Portugal
+* 🗺️ **Location:** Siberia
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syre777&color=blue" alt="Profile views" />
