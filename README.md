@@ -10,7 +10,6 @@
 
 * 🧠 **Name:** Syre
 * 💻 **Developer:** Web & Software Developer
-* 🎮 **Focus:** gamesense.pub
 * 🗺️ **Location:** Siberia
 
 <p align="center">
