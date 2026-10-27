@@ -6,7 +6,7 @@
 
 ---
 
-### 🔥 About
+###  About
 
 * 🧠 **Name:** Syre
 * 💻 **Developer:** Web & Software Developer
