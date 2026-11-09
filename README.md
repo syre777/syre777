@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <strong>Lua Developer for gamesense.pub</strong><br/>
+  <strong>PT</strong><br/>
   Creating scripts, features.
 </p>
 
